@@ -1,0 +1,25 @@
+
+{
+  "name": "Grand Luxury Interactive Christmas Tree",
+  "short_name": "Luxury Tree",
+  "description": "A high-fidelity 3D interactive luxury Christmas tree experience.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#01120b",
+  "theme_color": "#01120b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/ios-filled/192/D4AF37/christmas-tree.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://img.icons8.com/ios-filled/512/D4AF37/christmas-tree.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
